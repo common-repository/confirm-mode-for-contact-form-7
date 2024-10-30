@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.cm4cf7 .wpcf7-response-output:not(.cm4cf7-show) {
+    display: none;
+}
+
+.cm4cf7-confirm-value + * {
+    display: none;
+}
+
+.cm4cf7-message-for-confirmation {
+    border: 2px solid #00a0d2;
+    padding: 0.2em 1em;
+    margin: 2em 0.5em 1em;
+}
+
+.cm4cf7-confirm-value {
+    display: inline-block;
+    padding: 0.1em 0.5em;
+    background-color: #f1f1f1;
+}
